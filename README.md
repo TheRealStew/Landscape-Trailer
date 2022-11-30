@@ -1,8 +1,6 @@
 # Landscape-Trailer
 Fivem/Gta v Mod 
 
-How to add to Fivem or singleplayer
-
 (replacement)SinglePlayer and Fivem
 
 If there are any errors when loading please message me on my discord link below
